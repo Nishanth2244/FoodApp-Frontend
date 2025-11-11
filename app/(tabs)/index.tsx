@@ -1,10 +1,11 @@
 import React from 'react'
-import { Text, View } from 'react-native'
+import { View } from 'react-native'
+import HomePage from '../FoodApp/LandingPage.tsx/HomePage'
 
 const index = () => {
   return (
     <View>
-      <Text>index.tsx</Text>
+      <HomePage/>
     </View>
   )
 }
