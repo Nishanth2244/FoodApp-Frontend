@@ -1,12 +1,12 @@
 import React from 'react'
 import { Text, View } from 'react-native'
 
-const index = () => {
+const FoodContext = () => {
   return (
     <View>
-      <Text>index   </Text>
+      <Text>FoodContext</Text>
     </View>
   )
 }
 
-export default index
+export default FoodContext
